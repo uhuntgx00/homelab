@@ -12,3 +12,8 @@ module "zerotier" {
     "192.168.1.0/24" # TODO add this to configure script
   ]
 }
+
+module "backup" {
+  source         = "./modules/backup"
+  backup_buckets = var.backup_buckets
+}

@@ -2,3 +2,11 @@ cloudflare_email = "{{ cloudflare_email }}"
 cloudflare_api_key = "{{ cloudflare_api_key }}"
 cloudflare_account_id = "{{ cloudflare_account_id }}"
 zerotier_central_token = "{{ zerotier_central_token }}"
+backup_buckets = [
+    {
+        name = "onsite"
+        url = "http://192.168.1.24:9000"
+        bucket = "homelab-backup"
+        region = "minio"
+    }
+]
