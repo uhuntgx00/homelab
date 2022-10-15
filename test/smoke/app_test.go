@@ -10,7 +10,7 @@ import (
 	"github.com/gruntwork-io/terratest/modules/k8s"
 )
 
-func TestSmoke(t *testing.T) {
+func TestAppEndpoint(t *testing.T) {
 	t.Parallel()
 
 	var mainApps = []struct {

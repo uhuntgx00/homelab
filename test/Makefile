@@ -1,8 +1,9 @@
 .POSIX:
+.PHONY: *
 
-filter=.
+filter = .
 
-default: test
+default: static smoke component functional contract integration
 
-test:
-	gotestsum --format testname -- -timeout 30m -run "${filter}"
+static smoke component functional contract integration e2e chaos:
+	gotestsum --format testname -- -timeout 30m ./$@ -run "${filter}"
