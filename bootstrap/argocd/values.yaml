@@ -1,4 +1,7 @@
 argo-cd:
+  configs:
+    params:
+      applicationsetcontroller.enable.progressive.syncs: true
   server:
     extraArgs:
       - --insecure
