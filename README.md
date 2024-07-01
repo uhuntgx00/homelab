@@ -28,13 +28,15 @@ More information can be found in [the roadmap](#roadmap) below.
 
 ![Hardware](https://user-images.githubusercontent.com/27996771/98970963-25137200-2543-11eb-8f2d-f9a2d45756ef.JPG)
 
-- 4 × NEC SFF `PC-MK26ECZDR` (Japanese version of the ThinkCentre M700):
-    - CPU: `Intel Core i5-6600T @ 2.70GHz`
-    - RAM: `16GB`
-    - SSD: `128GB`
-- TP-Link `TL-SG108` switch:
+- 5 × SFF `Beelink Mini PC`:
+    - CPU: `Intel Core N95 @ 3.40GHz`
+    - RAM: `8GB`
+    - SSD: `256GB`
+- TP-Link `TL-SG108E` switch:
     - Ports: `8`
     - Speed: `1000Mbps`
+- DDW35U3 Enclosure:
+    - 8 TB Sata
 
 ### Features
 
