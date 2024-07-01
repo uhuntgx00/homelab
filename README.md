@@ -36,7 +36,7 @@ More information can be found in [the roadmap](#roadmap) below.
     - Ports: `8`
     - Speed: `1000Mbps`
 - DDW35U3 Enclosure:
-    - 8 TB Sata
+    - `8 TB Sata`
 
 ### Features
 
