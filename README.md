@@ -97,11 +97,36 @@ They can't capture all the project's features, but they are sufficient to get a 
 [lens-demo]: https://user-images.githubusercontent.com/27996771/149448896-9d79947d-468c-45c6-a81d-b43654e8ab6b.png
 [vault-demo]: https://user-images.githubusercontent.com/27996771/149452309-de4a893b-e94c-4ba8-9119-ea87449cf77e.png
 
+### Terms
+- [PXE](https://www.techopedia.com/definition/26200/preboot-execution-environment-pxe) _(Preboot Execution Environment)_
+- [SFF](https://www.lenovo.com/us/en/glossary/what-is-sff/?orgRef=https%253A%252F%252Fwww.google.com%252F) _(Small Form Factor)_
+
 ### Tech stack
 
 | Logo | Name | Description |
 | ---- | ---- | ----------- |
 | ![ansible](https://simpleicons.org/icons/ansible.svg) | [Ansible](https://www.ansible.com) | Automate bare metal provisioning and configuration |
+| ![ArgoCD](https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg) | [ArgoCD](https://argoproj.github.io/cd) | GitOps tool built to deploy applications to Kubernetes |
+| ![cert-manager](https://github.com/jetstack/cert-manager/raw/master/logo/logo.png) | [cert-manager](https://cert-manager.io) | Cloud native certificate management |
+| ![Cloudflare](https://avatars.githubusercontent.com/u/314135?s=200&v=4) | [Cloudflare](https://www.cloudflare.com) | DNS and Tunnel |
+| ![Pi-Hole]() | [Pi-Hole]() | DNS |
+| ![ExternalDNS](https://github.com/kubernetes-sigs/external-dns/raw/master/docs/img/external-dns.png) | [ExternalDNS](https://github.com/kubernetes-sigs/external-dns) | Synchronizes exposed Kubernetes Services and Ingresses with DNS providers |
+| ![Docker](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png) | [Docker](https://www.docker.com) | Ephemeral PXE server and convenient tools container |
+| ![Docker Registry](https://github.com/distribution/distribution/raw/main/distribution-logo.svg) | [Docker Registry](https://github.com/distribution/distribution) | Private container registry |
+| ![Gitea](https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg) | [Gitea](https://gitea.com) | Self-hosted Git service |
+| ![Tekton](https://avatars.githubusercontent.com/u/47602533?s=200&v=4) | [Tekton](https://tekton.dev) | Cloud native solution for building CI/CD systems |
+| ![Grafana](https://grafana.com/static/img/menu/grafana2.svg) | [Grafana](https://grafana.com) | Operational dashboards |
+| ![Loki](https://github.com/grafana/loki/blob/main/docs/sources/logo.png?raw=true) | [Loki](https://grafana.com/oss/loki) | Log aggregation system |
+| ![Prometheus](https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.svg) | [Prometheus](https://prometheus.io) | Systems monitoring and alerting toolkit |
+| ![Kubernetes](https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.svg) | [Kubernetes](https://kubernetes.io) | Container-orchestration system |
+| ![K3s](https://cncf-branding.netlify.app/img/projects/k3s/icon/color/k3s-icon-color.svg) | [K3s](https://k3s.io) | Lightweight distribution of Kubernetes |
+| ![Helm](https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.svg) | [Helm](https://helm.sh) | Package manager for Kubernetes |
+| ![MetalLB](https://avatars.githubusercontent.com/u/60239468?s=200&v=4) | [MetalLB](https://metallb.org) | Bare metal load-balancer for Kubernetes |
+| ![NGINX](https://avatars.githubusercontent.com/u/1412239?s=200&v=4) | [NGINX](https://www.nginx.com) | Kubernetes Ingress Controller |
+| ![RancherD](https://rancherdesktop.io/images/icon-rancher-desktop.svg) | [RancherD](https://rancherdesktop.io/) | Container/Kubernetes management on the Desktop |
+| ![Longhorn](https://cncf-branding.netlify.app/img/projects/longhorn/icon/color/longhorn-icon-color.svg) | [Longhorn](https://longhorn.io) | Cloud native distributed block storage for Kubernetes |
+| ![Vault](https://simpleicons.org/icons/vault.svg) | [Vault](https://www.vaultproject.io) | Secrets and encryption management system |
+| ![Renovate](https://docs.renovatebot.com/assets/images/logo.png) | [Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate) | Automatically update dependencies |
 
 <table>
     <tr>
@@ -110,109 +135,9 @@ They can't capture all the project's features, but they are sufficient to get a 
         <th>Description</th>
     </tr>
     <tr>
-        <td><img width="32" src="https://simpleicons.org/icons/ansible.svg"></td>
-        <td><a href="https://www.ansible.com">Ansible</a></td>
-        <td>Automate bare metal provisioning and configuration</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg"></td>
-        <td><a href="https://argoproj.github.io/cd">ArgoCD</a></td>
-        <td>GitOps tool built to deploy applications to Kubernetes</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://github.com/jetstack/cert-manager/raw/master/logo/logo.png"></td>
-        <td><a href="https://cert-manager.io">cert-manager</a></td>
-        <td>Cloud native certificate management</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://avatars.githubusercontent.com/u/314135?s=200&v=4"></td>
-        <td><a href="https://www.cloudflare.com">Cloudflare</a></td>
-        <td>DNS and Tunnel</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"></td>
-        <td><a href="https://www.docker.com">Docker</a></td>
-        <td>Ephemeral PXE server and convenient tools container</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://github.com/distribution/distribution/raw/main/distribution-logo.svg"></td>
-        <td><a href="https://github.com/distribution/distribution">Docker Registry</a></td>
-        <td>Private container registry</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://github.com/kubernetes-sigs/external-dns/raw/master/docs/img/external-dns.png"></td>
-        <td><a href="https://github.com/kubernetes-sigs/external-dns">ExternalDNS</a></td>
-        <td>Synchronizes exposed Kubernetes Services and Ingresses with DNS providers</td>
-    </tr>
-    <tr>
         <td><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/267px-Fedora_logo.svg.png"></td>
         <td><a href="https://getfedora.org/en/server">Fedora Server</a></td>
         <td>Base OS for Kubernetes nodes</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg"></td>
-        <td><a href="https://gitea.com">Gitea</a></td>
-        <td>Self-hosted Git service</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://grafana.com/static/img/menu/grafana2.svg"></td>
-        <td><a href="https://grafana.com">Grafana</a></td>
-        <td>Operational dashboards</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.svg"></td>
-        <td><a href="https://helm.sh">Helm</a></td>
-        <td>The package manager for Kubernetes</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://cncf-branding.netlify.app/img/projects/k3s/icon/color/k3s-icon-color.svg"></td>
-        <td><a href="https://k3s.io">K3s</a></td>
-        <td>Lightweight distribution of Kubernetes</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.svg"></td>
-        <td><a href="https://kubernetes.io">Kubernetes</a></td>
-        <td>Container-orchestration system, the backbone of this project</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://github.com/grafana/loki/blob/main/docs/sources/logo.png?raw=true"></td>
-        <td><a href="https://grafana.com/oss/loki">Loki</a></td>
-        <td>Log aggregation system</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://cncf-branding.netlify.app/img/projects/longhorn/icon/color/longhorn-icon-color.svg"></td>
-        <td><a href="https://longhorn.io">Longhorn</a></td>
-        <td>Cloud native distributed block storage for Kubernetes</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://avatars.githubusercontent.com/u/60239468?s=200&v=4"></td>
-        <td><a href="https://metallb.org">MetalLB</a></td>
-        <td>Bare metal load-balancer for Kubernetes</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4"></td>
-        <td><a href="https://www.nginx.com">NGINX</a></td>
-        <td>Kubernetes Ingress Controller</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.svg"></td>
-        <td><a href="https://prometheus.io">Prometheus</a></td>
-        <td>Systems monitoring and alerting toolkit</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://docs.renovatebot.com/assets/images/logo.png"></td>
-        <td><a href="https://www.whitesourcesoftware.com/free-developer-tools/renovate">Renovate</a></td>
-        <td>Automatically update dependencies</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4"></td>
-        <td><a href="https://tekton.dev">Tekton</a></td>
-        <td>Cloud native solution for building CI/CD systems</td>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://simpleicons.org/icons/vault.svg"></td>
-        <td><a href="https://www.vaultproject.io">Vault</a></td>
-        <td>Secrets and encryption management system</td>
     </tr>
     <tr>
         <td><img width="32" src="https://docs.zerotier.com/img/ZeroTierIcon.png"></td>
