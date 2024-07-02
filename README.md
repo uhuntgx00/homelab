@@ -117,7 +117,7 @@ They can't capture all the project's features, but they are sufficient to get a 
 | <img src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4" width="32"/> | [Tekton](https://tekton.dev) | Cloud native solution for building CI/CD systems |
 | <img src="https://grafana.com/static/img/menu/grafana2.svg" width="32"/> | [Grafana](https://grafana.com) | Operational dashboards |
 | <img src="https://github.com/grafana/loki/blob/main/docs/sources/logo.png?raw=true" width="32"/> | [Loki](https://grafana.com/oss/loki) | Log aggregation system |
-| <img src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.svg" width="32"/> | [Prometheus](https://prometheus.io) | Systems monitoring and alerting toolkit |
+| <img src="https://prometheus.io/assets/prometheus_logo_grey.svg" width="32"/> | [Prometheus](https://prometheus.io) | Systems monitoring and alerting toolkit |
 | <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" width="32"/> | [Kubernetes](https://kubernetes.io) | Container-orchestration system |
 | <img src="https://k3s.io/img/k3s-logo-light.svg" width="32"/> | [K3s](https://k3s.io) | Lightweight distribution of Kubernetes |
 | <img src="https://helm.sh/img/helm.svg" width="32"/> | [Helm](https://helm.sh) | Package manager for Kubernetes |
