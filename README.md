@@ -155,12 +155,6 @@ They can't capture all the project's features, but they are sufficient to get a 
 
 See [roadmap](https://homelab.khuedoan.com/reference/roadmap) and [open issues](https://github.com/khuedoan/homelab/issues) for a list of proposed features and known issues.
 
-## Contributing
-
-Any contributions you make are greatly appreciated.
-
-Please see [contributing guide](https://homelab.khuedoan.com/reference/contributing) for more information.
-
 ## License
 
 Copyright &copy; 2020 - 2022 Khue Doan
@@ -185,22 +179,6 @@ References:
 - [Diátaxis technical documentation framework](https://diataxis.fr)
 - [Official Terratest examples](https://github.com/gruntwork-io/terratest/tree/master/test)
 
-Here is a list of the contributors who have helped to improve this project.
-Big shout-out to them!
-
-- ![](https://github.com/locmai.png?size=24) [@locmai](https://github.com/locmai)
-- ![](https://github.com/MatthewJohn.png?size=24) [@MatthewJohn](https://github.com/MatthewJohn)
-- ![](https://github.com/karpfediem.png?size=24) [@karpfediem](https://github.com/karpfediem)
-- ![](https://github.com/linhng98.png?size=24) [@linhng98](https://github.com/linhng98)
-- ![](https://github.com/BlueHatbRit.png?size=24) [@BlueHatbRit](https://github.com/BlueHatbRit)
-- ![](https://github.com/dotdiego.png?size=24) [@dotdiego](https://github.com/dotdiego)
-- ![](https://github.com/Crimrose.png?size=24) [@Crimrose](https://github.com/Crimrose)
-- ![](https://github.com/eventi.png?size=24) [@eventi](https://github.com/eventi)
-- ![](https://github.com/Bourne-ID.png?size=24) [@Bourne-ID](https://github.com/Bourne-ID)
-- ![](https://github.com/akwan.png?size=24) [@akwan](https://github.com/akwan)
-- ![](https://github.com/trangmaiq.png?size=24) [@trangmaiq](https://github.com/trangmaiq)
-
-If you feel you're missing from this list, feel free to add yourself in a PR.
 
 ## Stargazers over time
 
