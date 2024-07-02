@@ -87,6 +87,7 @@ They can't capture all the project's features, but they are sufficient to get a 
 | Secret management with [Vault](https://www.vaultproject.io/)                                |
 
 ### Terms
+
 | Term |
 | ---- |
 | [PXE](https://www.techopedia.com/definition/26200/preboot-execution-environment-pxe) _(Preboot Execution Environment)_ |
@@ -94,6 +95,23 @@ They can't capture all the project's features, but they are sufficient to get a 
 | [DNS](https://www.techopedia.com/2/28806/internet/12-dns-records-explained) _(Domain Name System)_ |
 | [CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd) _(Continuous Integration/Continuous Deployment)_ |
 | ![CI/CD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAABUoTg0hRIRysVXsNZg21ojLCOSsljUElA&s) |
+| ![IaC]() _(Infrastructure as Code)_ |
+
+### DevOps Tools
+
+| Category | Tool |
+| -------- | ---- |
+| Version Control | Git |
+| Continuous Integration | GitLab, Jenkins |
+| Continuous Deployment | Ansible, Docker |
+| Infrastructure as Code (IaC) | Terraform, OpenTufu |
+| Configuration Management | Chef, Puppet |
+| Continuous Monitoring | Prometheus |
+| Collaboration/Commmunication | |
+| Cloud Platforms | |
+| Testing Automation | [Selenium](https://www.selenium.dev/documentation/legacy/developers/ci_tool/) |
+| Log Management | |
+| Project Management | [Monday](https://monday.com/), [Wrike](https://www.wrike.com/vap/), [ClickUp](https://clickup.com/) |
 
 ### Tech stack
 
