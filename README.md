@@ -124,7 +124,7 @@ They can't capture all the project's features, but they are sufficient to get a 
 | <img src="https://avatars.githubusercontent.com/u/60239468?s=200&v=4" width="32"/> | [MetalLB](https://metallb.org) | Bare metal load-balancer for Kubernetes |
 | <img src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4" width="32"/> | [NGINX](https://www.nginx.com) | Kubernetes Ingress Controller |
 | <img src="https://rancherdesktop.io/images/icon-rancher-desktop.svg" width="32"/> | [RancherD](https://rancherdesktop.io/) | Container/Kubernetes management on the Desktop |
-| <img src="https://cncf-branding.netlify.app/img/projects/longhorn/icon/color/longhorn-icon-color.svg" width="32"/> | [Longhorn](https://longhorn.io) | Cloud native distributed block storage for Kubernetes |
+| <img src="https://longhorn.io/img/logos/longhorn-icon-white.png" width="32"/> | [Longhorn](https://longhorn.io) | Cloud native distributed block storage for Kubernetes |
 | <img src="https://simpleicons.org/icons/vault.svg" width="32"/> | [Vault](https://www.vaultproject.io) | Secrets and encryption management system |
 | <img src="https://docs.renovatebot.com/assets/images/logo.png" width="32"/> | [Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate) | Automatically update dependencies |
 
