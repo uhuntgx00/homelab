@@ -118,9 +118,9 @@ They can't capture all the project's features, but they are sufficient to get a 
 | <img src="https://grafana.com/static/img/menu/grafana2.svg" width="32"/> | [Grafana](https://grafana.com) | Operational dashboards |
 | <img src="https://github.com/grafana/loki/blob/main/docs/sources/logo.png?raw=true" width="32"/> | [Loki](https://grafana.com/oss/loki) | Log aggregation system |
 | <img src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.svg" width="32"/> | [Prometheus](https://prometheus.io) | Systems monitoring and alerting toolkit |
-| <img src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="32"/> | [Kubernetes](https://kubernetes.io) | Container-orchestration system |
-| <img src="https://cncf-branding.netlify.app/img/projects/k3s/icon/color/k3s-icon-color.svg" width="32"/> | [K3s](https://k3s.io) | Lightweight distribution of Kubernetes |
-| <img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.svg" width="32"/> | [Helm](https://helm.sh) | Package manager for Kubernetes |
+| <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" width="32"/> | [Kubernetes](https://kubernetes.io) | Container-orchestration system |
+| <img src="https://k3s.io/img/k3s-logo-light.svg" width="32"/> | [K3s](https://k3s.io) | Lightweight distribution of Kubernetes |
+| <img src="https://helm.sh/img/helm.svg" width="32"/> | [Helm](https://helm.sh) | Package manager for Kubernetes |
 | <img src="https://avatars.githubusercontent.com/u/60239468?s=200&v=4" width="32"/> | [MetalLB](https://metallb.org) | Bare metal load-balancer for Kubernetes |
 | <img src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4" width="32"/> | [NGINX](https://www.nginx.com) | Kubernetes Ingress Controller |
 | <img src="https://rancherdesktop.io/images/icon-rancher-desktop.svg" width="32"/> | [RancherD](https://rancherdesktop.io/) | Container/Kubernetes management on the Desktop |
