@@ -99,6 +99,10 @@ They can't capture all the project's features, but they are sufficient to get a 
 
 ### Tech stack
 
+| Logo | Name | Description |
+| ---- | ---- | ----------- |
+| ![ansible](https://simpleicons.org/icons/ansible.svg) | [Ansible](https://www.ansible.com) | Automate bare metal provisioning and configuration |
+
 <table>
     <tr>
         <th>Logo</th>
