@@ -96,6 +96,7 @@ They can't capture all the project's features, but they are sufficient to get a 
 | [CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd) _(Continuous Integration/Continuous Deployment)_ |
 | ![CI/CD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAABUoTg0hRIRysVXsNZg21ojLCOSsljUElA&s) |
 | ![IaC]() _(Infrastructure as Code)_ |
+| ![TFTP]() _(Trivial File Transfer Protocol)_
 
 ### DevOps Tools
 
