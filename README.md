@@ -109,7 +109,7 @@ They can't capture all the project's features, but they are sufficient to get a 
 | <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg" width="32"/> | [ArgoCD](https://argoproj.github.io/cd) | GitOps tool built to deploy applications to Kubernetes |
 | <img src="https://github.com/jetstack/cert-manager/raw/master/logo/logo.png" width="32"/> | [cert-manager](https://cert-manager.io) | Cloud native certificate management |
 | <img src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" width="32"/> | [Cloudflare](https://www.cloudflare.com) | DNS and Tunnel |
-| <img src="" width="32"/> | [Pi-Hole]() | DNS |
+| <img src="https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png" width="32"/> | [Pi-Hole](https://pi-hole.net/) | DNS Server |
 | <img src="https://github.com/kubernetes-sigs/external-dns/raw/master/docs/img/external-dns.png" width="32"/> | [ExternalDNS](https://github.com/kubernetes-sigs/external-dns) | Synchronizes exposed Kubernetes Services and Ingresses with DNS providers |
 | <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="32"/> | [Docker](https://www.docker.com) | Ephemeral PXE server and convenient tools container |
 | <img src="https://github.com/distribution/distribution/raw/main/distribution-logo.svg" width="32"/> | [Docker Registry](https://github.com/distribution/distribution) | Private container registry |
