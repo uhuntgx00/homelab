@@ -105,7 +105,7 @@ They can't capture all the project's features, but they are sufficient to get a 
 
 | Logo | Name | Description |
 | ---- | ---- | ----------- |
-| ![ansible](https://simpleicons.org/icons/ansible.svg) | [Ansible](https://www.ansible.com) | Automate bare metal provisioning and configuration |
+| ![ansible](https://simpleicons.org/icons/ansible.svg =32x32) | [Ansible](https://www.ansible.com) | Automate bare metal provisioning and configuration |
 | ![ArgoCD](https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg) | [ArgoCD](https://argoproj.github.io/cd) | GitOps tool built to deploy applications to Kubernetes |
 | ![cert-manager](https://github.com/jetstack/cert-manager/raw/master/logo/logo.png) | [cert-manager](https://cert-manager.io) | Cloud native certificate management |
 | ![Cloudflare](https://avatars.githubusercontent.com/u/314135?s=200&v=4) | [Cloudflare](https://www.cloudflare.com) | DNS and Tunnel |
