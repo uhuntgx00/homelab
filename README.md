@@ -179,7 +179,3 @@ References:
 - [Diátaxis technical documentation framework](https://diataxis.fr)
 - [Official Terratest examples](https://github.com/gruntwork-io/terratest/tree/master/test)
 
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/khuedoan/homelab.svg)](https://starchart.cc/khuedoan/homelab)
