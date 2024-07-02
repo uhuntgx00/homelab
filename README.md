@@ -26,7 +26,7 @@ More information can be found in [the roadmap](#roadmap) below.
 
 ### Hardware
 
-![Hardware](https://user-images.githubusercontent.com/27996771/98970963-25137200-2543-11eb-8f2d-f9a2d45756ef.JPG)
+![Hardware]() _replace_
 
 - 5 × SFF `Beelink Mini PC`:
     - CPU: `Intel Core N95 @ 3.40GHz`
