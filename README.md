@@ -106,7 +106,7 @@ They can't capture all the project's features, but they are sufficient to get a 
 | Logo | Name | Description |
 | ---- | ---- | ----------- |
 | <img src="https://simpleicons.org/icons/ansible.svg" width="32"/> | [Ansible](https://www.ansible.com) | Automate bare metal provisioning and configuration |
-| <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg" width="32"/> | [ArgoCD](https://argoproj.github.io/cd) | GitOps tool built to deploy applications to Kubernetes |
+| <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="32"/> | [ArgoCD](https://argoproj.github.io/cd) | GitOps tool built to deploy applications to Kubernetes |
 | <img src="https://github.com/jetstack/cert-manager/raw/master/logo/logo.png" width="32"/> | [cert-manager](https://cert-manager.io) | Cloud native certificate management |
 | <img src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" width="32"/> | [Cloudflare](https://www.cloudflare.com) | DNS and Tunnel |
 | <img src="https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png" width="32"/> | [Pi-Hole](https://pi-hole.net/) | DNS Server |
