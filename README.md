@@ -123,13 +123,14 @@ They can't capture all the project's features, but they are sufficient to get a 
 | <img src="https://icon.icepanel.io/Technology/svg/K3s.svg" width="32"/> | [K3s](https://k3s.io) | Lightweight distribution of Kubernetes |
 | <img src="https://helm.sh/img/helm.svg" width="32"/> | [Helm](https://helm.sh) | Package manager for Kubernetes |
 | <img src="https://avatars.githubusercontent.com/u/60239468?s=200&v=4" width="32"/> | [MetalLB](https://metallb.org) | Bare metal load-balancer for Kubernetes |
-| <img src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4" width="32"/> | [NGINX](https://www.nginx.com) | Kubernetes Ingress Controller |
+| <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" width="32"/> | [NGINX](https://www.nginx.com) | Kubernetes Ingress Controller |
 | <img src="https://icon.icepanel.io/Technology/svg/Rancher.svg" width="32"/> | [RancherD](https://rancherdesktop.io/) | Container/Kubernetes management on the Desktop |
 | <img src="https://longhorn.io/img/logos/longhorn-icon-white.png" width="32"/> | [Longhorn](https://longhorn.io) | Cloud native distributed block storage for Kubernetes |
 | <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="32"/> | [Vault](https://www.vaultproject.io) | Secrets and encryption management system |
 | <img src="https://docs.renovatebot.com/assets/images/logo.png" width="32"/> | [Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate) | Automatically update dependencies |
 | <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" width="32"/> | [Ubuntu](https://ubuntu.com/) | Base OS |
 | <img src="https://icon.icepanel.io/Technology/svg/NixOS.svg" width="32"/> | [NixOS](https://nixos.org/) | Declarative builds and deployments |
+| <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" width="32"/> | [Terraform](https://www.terraform.io/) | Automated infrastructure |
 
 <table>
     <tr>
