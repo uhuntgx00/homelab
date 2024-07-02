@@ -152,9 +152,7 @@ Copyright &copy; 2020 - 2022 Khue Doan
 Distributed under the GPLv3 License.
 See [license page](https://homelab.khuedoan.com/reference/license) or `LICENSE.md` file for more information.
 
-## Acknowledgements
-
-References:
+## References
 
 - [Ephemeral PXE server inspired by Minimal First Machine in the DC](https://speakerdeck.com/amcguign/minimal-first-machine-in-the-dc)
 - [ArgoCD usage and monitoring configuration in locmai/humble](https://github.com/locmai/humble)
