@@ -130,7 +130,8 @@ They can't capture all the project's features, but they are sufficient to get a 
 | <img src="https://docs.renovatebot.com/assets/images/logo.png" width="32"/> | [Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate) | Automatically update dependencies |
 | <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" width="32"/> | [Ubuntu](https://ubuntu.com/) | Base OS |
 | <img src="https://icon.icepanel.io/Technology/svg/NixOS.svg" width="32"/> | [NixOS](https://nixos.org/) | Declarative builds and deployments |
-| <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" width="32"/> | [Terraform](https://www.terraform.io/) | Automated infrastructure |
+| <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" width="32"/> | [Terraform](https://www.terraform.io/) | Automated infrastructure as code |
+| <img src="https://avatars.githubusercontent.com/u/142061836?s=280&v=4" width="32"/> | [OpenTofu](https://opentofu.org/) | Automated infrastructure as code |
 
 <table>
     <tr>
