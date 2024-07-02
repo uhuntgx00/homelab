@@ -88,6 +88,7 @@ They can't capture all the project's features, but they are sufficient to get a 
 
 ### Terms
 | Acronym | Term |
+| ------- | ---- |
 | [PXE](https://www.techopedia.com/definition/26200/preboot-execution-environment-pxe) | _(Preboot Execution Environment)_ |
 | [SFF](https://www.lenovo.com/us/en/glossary/what-is-sff/?orgRef=https%253A%252F%252Fwww.google.com%252F) | _(Small Form Factor)_ |
 | [DNS](https://www.techopedia.com/2/28806/internet/12-dns-records-explained) | _(Domain Name System)_ |
