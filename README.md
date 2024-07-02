@@ -126,13 +126,13 @@ They can't capture all the project's features, but they are sufficient to get a 
 | <img src="https://icon.icepanel.io/Technology/svg/NGINX.svg" width="32"/> | [NGINX](https://www.nginx.com) | Kubernetes Ingress Controller |
 | <img src="https://icon.icepanel.io/Technology/svg/Rancher.svg" width="32"/> | [RancherD](https://rancherdesktop.io/) | Container/Kubernetes management on the Desktop |
 | <img src="https://longhorn.io/img/logos/longhorn-icon-white.png" width="32"/> | [Longhorn](https://longhorn.io) | Cloud native distributed block storage for Kubernetes |
-| <img src="https://longhorn.io/img/logos/longhorn-icon-white.png" width="32"/> | [Lens](https://k8slens.dev/) | Kubernetes management |
+| <img src="[https://longhorn.io/img/logos/longhorn-icon-white.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsE95sy7vBrIRGuyyg4kKqsfGlM-_rhdoyw&s)" width="32"/> | [Lens](https://k8slens.dev/) | Kubernetes management |
 | <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="32"/> | [Vault](https://www.vaultproject.io) | Secrets and encryption management system |
 | <img src="https://docs.renovatebot.com/assets/images/logo.png" width="32"/> | [Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate) | Automatically update dependencies |
 | <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" width="32"/> | [Ubuntu](https://ubuntu.com/) | Base OS |
 | <img src="https://icon.icepanel.io/Technology/svg/NixOS.svg" width="32"/> | [NixOS](https://nixos.org/) | Declarative builds and deployments |
 | <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" width="32"/> | [Terraform](https://www.terraform.io/) | Automated infrastructure as code |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsE95sy7vBrIRGuyyg4kKqsfGlM-_rhdoyw&s" width="32"/> | [OpenTofu](https://opentofu.org/) | Automated infrastructure as code |
+| <img src="https://avatars.githubusercontent.com/u/142061836?s=280&v=4" width="32"/> | [OpenTofu](https://opentofu.org/) | Automated infrastructure as code |
 
 <table>
     <tr>
