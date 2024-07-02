@@ -92,7 +92,7 @@ They can't capture all the project's features, but they are sufficient to get a 
 - [DNS](https://www.techopedia.com/2/28806/internet/12-dns-records-explained) _(Domain Name System)_
 - [CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd) _(Continuous Integration/Continuous Deployment)_
 
-![CI/CD](https://www.redhat.com/rhdc/managed-files/styles/wysiwyg_full_width/private/ci-cd-flow-desktop.png?itok=NNRD1Zj0)
+![CI/CD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAABUoTg0hRIRysVXsNZg21ojLCOSsljUElA&s)
 
 ### Tech stack
 
