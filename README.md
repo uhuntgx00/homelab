@@ -146,6 +146,7 @@ They can't capture all the project's features, but they are sufficient to get a 
 | <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" width="32"/> | [Terraform](https://www.terraform.io/) | Automated infrastructure as code |
 | <img src="https://avatars.githubusercontent.com/u/142061836?s=280&v=4" width="32"/> | [OpenTofu](https://opentofu.org/) | Automated infrastructure as code |
 | | [Knative](https://knative.dev/) | Serverless containers |
+| | [Talos](https://www.talos.dev/) | Kubernetes Linux OS |
 
 <table>
     <tr>
