@@ -91,8 +91,7 @@ They can't capture all the project's features, but they are sufficient to get a 
 - [SFF](https://www.lenovo.com/us/en/glossary/what-is-sff/?orgRef=https%253A%252F%252Fwww.google.com%252F) _(Small Form Factor)_
 - [DNS](https://www.techopedia.com/2/28806/internet/12-dns-records-explained) _(Domain Name System)_
 - [CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd) _(Continuous Integration/Continuous Deployment)_
-
-![CI/CD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAABUoTg0hRIRysVXsNZg21ojLCOSsljUElA&s)
+  - ![CI/CD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAABUoTg0hRIRysVXsNZg21ojLCOSsljUElA&s)
 
 ### Tech stack
 
