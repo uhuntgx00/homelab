@@ -105,39 +105,37 @@ They can't capture all the project's features, but they are sufficient to get a 
 
 | Logo | Name | Description |
 | ---- | ---- | ----------- |
-| <img src="https://simpleicons.org/icons/ansible.svg" width="32"/> | [Ansible](https://www.ansible.com) | Automate bare metal provisioning and configuration |
-| <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="32"/> | [ArgoCD](https://argoproj.github.io/cd) | GitOps tool built to deploy applications to Kubernetes |
+| <img src="https://icon.icepanel.io/Technology/png-shadow-512/Ansible.png" width="32"/> | [Ansible](https://www.ansible.com) | Automate bare metal provisioning and configuration |
+| <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="32"/> | [ArgoCD](https://argoproj.github.io/cd) | GitOps tool built to deploy applications to Kubernetes |
 | <img src="https://github.com/jetstack/cert-manager/raw/master/logo/logo.png" width="32"/> | [cert-manager](https://cert-manager.io) | Cloud native certificate management |
-| <img src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" width="32"/> | [Cloudflare](https://www.cloudflare.com) | DNS and Tunnel |
+| <img src="https://icon.icepanel.io/Technology/svg/Cloudflare.svg" width="32"/> | [Cloudflare](https://www.cloudflare.com) | DNS and Tunnel |
 | <img src="https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png" width="32"/> | [Pi-Hole](https://pi-hole.net/) | DNS Server |
 | <img src="https://github.com/kubernetes-sigs/external-dns/raw/master/docs/img/external-dns.png" width="32"/> | [ExternalDNS](https://github.com/kubernetes-sigs/external-dns) | Synchronizes exposed Kubernetes Services and Ingresses with DNS providers |
-| <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="32"/> | [Docker](https://www.docker.com) | Ephemeral PXE server and convenient tools container |
+| <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="32"/> | [Docker](https://www.docker.com) | Ephemeral PXE server and convenient tools container |
 | <img src="https://github.com/distribution/distribution/raw/main/distribution-logo.svg" width="32"/> | [Docker Registry](https://github.com/distribution/distribution) | Private container registry |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" width="32"/> | [Gitea](https://gitea.com) | Self-hosted Git service |
+| <img src="https://icon.icepanel.io/Technology/svg/GitLab.svg" width="32"/> | [GitLab](https://about.gitlab.com/) | Self-hosted Git service |
 | <img src="https://avatars.githubusercontent.com/u/47602533?s=200&v=4" width="32"/> | [Tekton](https://tekton.dev) | Cloud native solution for building CI/CD systems |
-| <img src="https://grafana.com/static/img/menu/grafana2.svg" width="32"/> | [Grafana](https://grafana.com) | Operational dashboards |
+| <img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" width="32"/> | [Grafana](https://grafana.com) | Operational dashboards |
 | <img src="https://github.com/grafana/loki/blob/main/docs/sources/logo.png?raw=true" width="32"/> | [Loki](https://grafana.com/oss/loki) | Log aggregation system |
-| <img src="https://prometheus.io/assets/prometheus_logo_grey.svg" width="32"/> | [Prometheus](https://prometheus.io) | Systems monitoring and alerting toolkit |
+| <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" width="32"/> | [Prometheus](https://prometheus.io) | Systems monitoring and alerting toolkit |
 | <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" width="32"/> | [Kubernetes](https://kubernetes.io) | Container-orchestration system |
-| <img src="https://k3s.io/img/k3s-logo-light.svg" width="32"/> | [K3s](https://k3s.io) | Lightweight distribution of Kubernetes |
+| <img src="https://icon.icepanel.io/Technology/svg/K3s.svg" width="32"/> | [K3s](https://k3s.io) | Lightweight distribution of Kubernetes |
 | <img src="https://helm.sh/img/helm.svg" width="32"/> | [Helm](https://helm.sh) | Package manager for Kubernetes |
 | <img src="https://avatars.githubusercontent.com/u/60239468?s=200&v=4" width="32"/> | [MetalLB](https://metallb.org) | Bare metal load-balancer for Kubernetes |
 | <img src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4" width="32"/> | [NGINX](https://www.nginx.com) | Kubernetes Ingress Controller |
-| <img src="https://rancherdesktop.io/images/icon-rancher-desktop.svg" width="32"/> | [RancherD](https://rancherdesktop.io/) | Container/Kubernetes management on the Desktop |
+| <img src="https://icon.icepanel.io/Technology/svg/Rancher.svg" width="32"/> | [RancherD](https://rancherdesktop.io/) | Container/Kubernetes management on the Desktop |
 | <img src="https://longhorn.io/img/logos/longhorn-icon-white.png" width="32"/> | [Longhorn](https://longhorn.io) | Cloud native distributed block storage for Kubernetes |
-| <img src="https://simpleicons.org/icons/vault.svg" width="32"/> | [Vault](https://www.vaultproject.io) | Secrets and encryption management system |
+| <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="32"/> | [Vault](https://www.vaultproject.io) | Secrets and encryption management system |
 | <img src="https://docs.renovatebot.com/assets/images/logo.png" width="32"/> | [Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate) | Automatically update dependencies |
+| <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" width="32"/> | [Ubuntu](https://ubuntu.com/) | Base OS |
+| <img src="https://icon.icepanel.io/Technology/svg/NixOS.svg" width="32"/> | [NixOS](https://nixos.org/) | Declarative builds and deployments |
 
 <table>
     <tr>
         <th>Logo</th>
         <th>Name</th>
         <th>Description</th>
-    </tr>
-    <tr>
-        <td><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/267px-Fedora_logo.svg.png"></td>
-        <td><a href="https://getfedora.org/en/server">Fedora Server</a></td>
-        <td>Base OS for Kubernetes nodes</td>
     </tr>
     <tr>
         <td><img width="32" src="https://docs.zerotier.com/img/ZeroTierIcon.png"></td>
