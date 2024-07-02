@@ -63,28 +63,28 @@ More information can be found in [the roadmap](#roadmap) below.
 Some demo videos and screenshots are shown here.
 They can't capture all the project's features, but they are sufficient to get a concept of it.
 
-| Demo                                                                                        |
-| :--:                                                                                        |
-| [![][deploy-demo]](https://asciinema.org/a/xkBRkwC6e9RAzVuMDXH3nGHp7)                       |
-| Deploy with a single command (after updating the configuration files)                       |
-| [![][pxe-demo]](https://www.youtube.com/watch?v=y-d7btNNAT8)                                |
-| PXE boot                                                                                    |
-| [![][homepage-demo]][homepage-demo]                                                         |
-| Homepage with Ingress discovery powered by [Hajimari](https://github.com/toboshii/hajimari) |
-| [![][grafana-demo]][grafana-demo]                                                           |
-| Monitoring dashboard powered by [Grafana](https://grafana.com/)                             |
-| [![][gitea-demo]][gitea-demo]                                                               |
-| Git server powered by [Gitea](https://gitea.io/en-us/)                                      |
-| [![][matrix-demo]][matrix-demo]                                                             |
-| [Matrix](https://matrix.org/) chat server                                                   |
-| [![][tekton-demo]][tekton-demo]                                                             |
-| Continuous integration with [Tekton](https://tekton.dev/)                                   |
-| [![][argocd-demo]][argocd-demo]                                                             |
-| Continuous deployment with [ArgoCD](https://argoproj.github.io/cd/)                         |
-| [![][lens-demo]][lens-demo]                                                                 |
-| Cluster management using [Lens](https://k8slens.dev/)                                       |
-| [![][vault-demo]][vault-demo]                                                               |
-| Secret management with [Vault](https://www.vaultproject.io/)                                |
+[comment]: # | Demo                                                                                        |
+[comment]: # | :--:                                                                                        |
+[comment]: # | [![][deploy-demo]](https://asciinema.org/a/xkBRkwC6e9RAzVuMDXH3nGHp7)                       |
+[comment]: # | Deploy with a single command (after updating the configuration files)                       |
+[comment]: # | [![][pxe-demo]](https://www.youtube.com/watch?v=y-d7btNNAT8)                                |
+[comment]: # | PXE boot                                                                                    |
+[comment]: # | [![][homepage-demo]][homepage-demo]                                                         |
+[comment]: # | Homepage with Ingress discovery powered by [Hajimari](https://github.com/toboshii/hajimari) |
+[comment]: # | [![][grafana-demo]][grafana-demo]                                                           |
+[comment]: # | Monitoring dashboard powered by [Grafana](https://grafana.com/)                             |
+[comment]: # | [![][gitea-demo]][gitea-demo]                                                               |
+[comment]: # | Git server powered by [Gitea](https://gitea.io/en-us/)                                      |
+[comment]: # | [![][matrix-demo]][matrix-demo]                                                             |
+[comment]: # | [Matrix](https://matrix.org/) chat server                                                   |
+[comment]: # | [![][tekton-demo]][tekton-demo]                                                             |
+[comment]: # | Continuous integration with [Tekton](https://tekton.dev/)                                   |
+[comment]: # | [![][argocd-demo]][argocd-demo]                                                             |
+[comment]: # | Continuous deployment with [ArgoCD](https://argoproj.github.io/cd/)                         |
+[comment]: # | [![][lens-demo]][lens-demo]                                                                 |
+[comment]: # | Cluster management using [Lens](https://k8slens.dev/)                                       |
+[comment]: # | [![][vault-demo]][vault-demo]                                                               |
+[comment]: # | Secret management with [Vault](https://www.vaultproject.io/)                                |
 
 [deploy-demo]: https://asciinema.org/a/xkBRkwC6e9RAzVuMDXH3nGHp7.svg
 [pxe-demo]: https://user-images.githubusercontent.com/27996771/157303477-df2e7410-8f02-4648-a86c-71e6b7e89e35.png
